@@ -1,8 +1,7 @@
-# Author: Abraham Olenslager
-# Description: Two-Deck War, IS 303 Level 9 group assignment.
-#              Game loop and war logic. Plays rounds between two Player
-#              objects until one player holds every card.
-#              Run this file to play:  python main.py
+
+#Game loop and war logic. Plays rounds between two Player
+#objects until one player holds every card.
+#Run this file to play:  python main.py
 
 from cards import Deck
 from player import Player
